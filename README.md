@@ -13,7 +13,7 @@
 ### 1. 🔥 激怒クレーム対応シミュレーター
 新人スタッフが、理不尽なクレームに対する「一次対応」を安全に練習できるロールプレイングアプリです。
 
-<img src="[img width="1918" height="821" alt="Image" src="https://github.com/user-attachments/assets/fe806003-3c53-40ba-8492-c0721227b9b8" /]" width="600">
+<img width="1918" height="821" alt="スクリーンショット 2026-02-05 010147" src="https://github.com/user-attachments/assets/e465e410-b248-4944-b460-eec16d6c62f5" />
 
 #### 課題背景
 店長時代、クレーム対応のストレスで新人が早期離職してしまう課題がありました。しかし、対人でのロールプレイング研修は店長の時間を圧迫するため、十分な回数をこなせないジレンマがありました。
@@ -26,8 +26,7 @@ AIを「理不尽な客」になりきらせることで、店長の時間を奪
 ### 2. 業務マニュアル検索AI（RAG）
 分厚い業務マニュアルの中から、必要な情報を即座に検索・回答してくれるAIチャットボットです。
 
-
-<img src="[img width="1919" height="831" alt="Image" src="https://github.com/user-attachments/assets/a9e03149-5b5f-4802-aee8-9f09b463e85d" /]" width="600">
+<img width="1919" height="831" alt="スクリーンショット 2026-02-05 010312" src="https://github.com/user-attachments/assets/d8dae0e3-053e-4c59-b75c-2188d0e68019" />
 
 
 #### 課題背景
